@@ -1,5 +1,5 @@
 # My Music Player
-![App](https://github.com/padmanabhpvdev/react-web-music-player/blob/main/public/image.png)
+![App](https://github.com/padmanabhpvdev/music-player/blob/main/public/image.png)
 
 ## Requirements
 **NodeJS** and **React**
@@ -8,11 +8,11 @@
 Install the app using following code or download the ZIP:
 
 ```
-git clone https://github.com/padmanabhpvdev/react-web-music-player.git
+git clone https://github.com/padmanabhpvdev/music-player.git
 ```
 Head into the location after installation:
 ```
-cd react-web-music-player
+cd music-player
 ```
 Install the required packages using `npm` command:
 ```
