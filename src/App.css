@@ -3,6 +3,7 @@ body{
   background: url('https://wallpaperbat.com/img/515593-country-road-background.jpg');
   background-position: fixed;
   background-size: cover;
+  background-attachment: fixed;
   color: white;
 }
 header{
