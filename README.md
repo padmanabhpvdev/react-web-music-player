@@ -4,5 +4,7 @@
 
 Install the app using following code or download the ZIP:
 
-```git clone https://github.com/padmanabhpvdev/react-web-music-player.git```
+```
+git clone https://github.com/padmanabhpvdev/react-web-music-player.git
+```
 
